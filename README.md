@@ -6,7 +6,7 @@
 
 2.
 
-## selfPractice list
+## Self_Practice list
 
 1. [변수](https://github.com/youjisang/Self_Practice.git)
 2. [연산자](https://github.com/youjisang/Self_Practice02.git)
