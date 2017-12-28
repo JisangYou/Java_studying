@@ -1,11 +1,5 @@
 # Java_studying
 
-## learning list
-
-1. [basic](https://github.com/youjisang/Change.git)
-
-2.
-
 ## Self_Practice list
 
 1. [변수](https://github.com/youjisang/Self_Practice.git)
